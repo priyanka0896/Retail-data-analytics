@@ -543,12 +543,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <b>⭐ If you found this project helpful, please give it a star! ⭐</b>
 </p>
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/dosibhatlanirmalaaiswarya-bit">Aiswarya Dosibhatla</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dosibhatlanirmalaaiswarya-bit&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
